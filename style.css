@@ -1,0 +1,29 @@
+#cabecalho,footer {
+    background-color: #393c3d;
+}
+.mb-4,footer {
+    color:white;
+    
+}
+span{
+    
+    color: red;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    
+    color: white;
+}
+.navbar-toggler-icon
+    {
+        background-color: red;
+}
+.navbar-toggler{
+    background-color:white;
+}    
+.navbar-brand  {
+    color: white;
+}
+.navbar-brand {
+    pointer-events: none; 
+    
+}
